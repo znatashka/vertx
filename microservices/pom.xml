@@ -11,6 +11,7 @@
 
     <modules>
         <module>hello-microservice-http</module>
+        <module>hello-consumer-microservice-http</module>
     </modules>
 
     <properties>
